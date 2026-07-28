@@ -11,3 +11,5 @@ Experimento 2
 
  Bitácora
  La diferencia entre la ROM y la RAM es que la ROM almacena las instrucciones del programa y estas no cambian mientras se ejecuta. En cambio, la RAM se utiliza para guardar los datos con los que trabaja el programa y los resultados de las operaciones, por lo que su contenido puede modificarse durante la ejecución.
+ 
+![alt text](<Capturas ejercicios/ejercicio 1 a 2.png>)
