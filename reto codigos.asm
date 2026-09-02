@@ -49,7 +49,7 @@ class ofApp : public ofBaseApp {
 ofApp.cpp
 #include "ofApp.h"
 
-// ================= BrushQueue =================
+// BrushQueue 
 
 BrushQueue::BrushQueue(int _maxSize) : front(nullptr), rear(nullptr), size(0), maxSize(_maxSize) {}
 
@@ -98,7 +98,7 @@ bool BrushQueue::isEmpty() {
     return front == nullptr;
 }
 
-// ================= ofApp =================
+// ofApp 
 
 void ofApp::setup() {
     ofBackground(0);
